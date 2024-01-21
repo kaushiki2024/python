@@ -1,0 +1,2 @@
+a="!!!kaushiki!!!!kaushiki mishra "
+print(a.rstrip("mishra"))

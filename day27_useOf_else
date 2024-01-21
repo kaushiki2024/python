@@ -1,0 +1,16 @@
+for i in range(5):
+    print(i)
+    if i==3:
+     break
+else:
+    print("sorry no i")
+
+
+i=0
+while i<7:
+    print(i)
+    i=i+1
+    if i==4:
+        break
+else:
+    print("no i's are found")        
